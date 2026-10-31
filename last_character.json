@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Ino Yamanaka:Naruto",
-  "lastName": "Ino Yamanaka",
-  "index": 175,
+  "lastId": "db:Cereza:Bayonetta Origins",
+  "lastName": "Cereza",
+  "index": 261,
   "recent": [
+    "db:Cereza:Bayonetta Origins",
     "db:Ino Yamanaka:Naruto",
     "db:Aqua:Konosuba",
     "db:Asia Argento:High School DxD",
@@ -36,36 +37,35 @@
     "db:Shorekeeper:Wuthering Waves",
     "db:Tatsumaki:One Punch Man",
     "db:Konan:Naruto",
-    "db:Karenina:Punishing Gray Raven",
-    "db:Kaga:Azur Lane"
+    "db:Karenina:Punishing Gray Raven"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-31T12:04:25.034Z",
+  "updatedAt": "2026-10-31T21:16:49.989Z",
   "cached": {
     "character": {
-      "name": "Ino Yamanaka",
-      "source": "Naruto",
-      "universe": "ANIME",
+      "name": "Cereza",
+      "source": "Bayonetta Origins",
+      "universe": "GAME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Ino Yamanaka:Naruto",
-      "nextIndex": 175
+      "globalId": "db:Cereza:Bayonetta Origins",
+      "nextIndex": 261
     },
     "meta": {
-      "source": "Naruto",
-      "fanbase": 533619,
-      "vibe": "LOYAL",
-      "rating": "LEGENDARY",
-      "age": "12-19",
-      "blood": "B",
+      "source": "Bayonetta Origins",
+      "fanbase": 200895,
+      "vibe": "TSUNDERE",
+      "rating": "POPULAR",
+      "age": "Unknown",
+      "blood": "Unknown",
       "bio": "Character",
-      "description": "cm - 162",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2009-H7n38Ns1fr0Y.jpg"
+      "description": "Cereza is the time-displaced young girl",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b219274-P9RmNHp3VJTO.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1404100712127791144/1566060271250841660/waifu-a4f4542e2490d851003a042f.png?ex=6ae72ac8&is=6ae5d948&hm=e5f8e707c10221384830874707d832205622728eff0f3417c5e013e7c8f50680&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1404100712127791144/1566199290823581710/waifu-57f24d98f571a396cd958eb3.png?ex=6ae7ac41&is=6ae65ac1&hm=004b791e35f16aa7454b71467530db71750dea42c8d0ac4893fd9b698f59530f&"
   }
 }
