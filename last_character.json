@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Aqua:Konosuba",
-  "lastName": "Aqua",
-  "index": 192,
+  "lastId": "db:Ino Yamanaka:Naruto",
+  "lastName": "Ino Yamanaka",
+  "index": 175,
   "recent": [
+    "db:Ino Yamanaka:Naruto",
     "db:Aqua:Konosuba",
     "db:Asia Argento:High School DxD",
     "db:Makima:Chainsaw Man",
@@ -36,15 +37,14 @@
     "db:Tatsumaki:One Punch Man",
     "db:Konan:Naruto",
     "db:Karenina:Punishing Gray Raven",
-    "db:Kaga:Azur Lane",
-    "db:Kokoro:Darling in the Franxx"
+    "db:Kaga:Azur Lane"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-31T11:26:37.639Z",
+  "updatedAt": "2026-10-31T12:04:25.034Z",
   "cached": {
     "character": {
-      "name": "Aqua",
-      "source": "Konosuba",
+      "name": "Ino Yamanaka",
+      "source": "Naruto",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Aqua:Konosuba",
-      "nextIndex": 192
+      "globalId": "db:Ino Yamanaka:Naruto",
+      "nextIndex": 175
     },
     "meta": {
-      "source": "Konosuba",
-      "fanbase": 240925,
-      "vibe": "TSUNDERE",
-      "rating": "ICONIC",
-      "age": "Unknown",
-      "blood": "Unknown",
-      "bio": "Goddess",
-      "description": "Aqua is a goddess of water",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89362-ibkc0eoECaW1.png"
+      "source": "Naruto",
+      "fanbase": 533619,
+      "vibe": "LOYAL",
+      "rating": "LEGENDARY",
+      "age": "12-19",
+      "blood": "B",
+      "bio": "Character",
+      "description": "cm - 162",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2009-H7n38Ns1fr0Y.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1523415795835732039/1566050761383616603/waifu-288662a0509a0cc24cfd1701.png?ex=6ae721ed&is=6ae5d06d&hm=9bb541d1057aed3608182ef338fe5f16b841c6c5d57ec296f0bd979af061210b&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1404100712127791144/1566060271250841660/waifu-a4f4542e2490d851003a042f.png?ex=6ae72ac8&is=6ae5d948&hm=e5f8e707c10221384830874707d832205622728eff0f3417c5e013e7c8f50680&"
   }
 }
