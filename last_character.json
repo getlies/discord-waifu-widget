@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Rangiku Matsumoto:Bleach",
-  "lastName": "Rangiku Matsumoto",
-  "index": 183,
+  "lastId": "db:Levy McGarden:Fairy Tail",
+  "lastName": "Levy McGarden",
+  "index": 110,
   "recent": [
+    "db:Levy McGarden:Fairy Tail",
     "db:Rangiku Matsumoto:Bleach",
     "db:Mikasa Ackerman:Attack on Titan",
     "db:Cereza:Bayonetta Origins",
@@ -36,15 +37,14 @@
     "db:Aigis:Persona 3",
     "db:New Jersey:Azur Lane",
     "db:Shalltear Bloodfallen:Overlord",
-    "db:Shorekeeper:Wuthering Waves",
-    "db:Tatsumaki:One Punch Man"
+    "db:Shorekeeper:Wuthering Waves"
   ],
   "provider": "database",
-  "updatedAt": "2026-11-01T13:00:32.228Z",
+  "updatedAt": "2026-11-01T21:54:36.096Z",
   "cached": {
     "character": {
-      "name": "Rangiku Matsumoto",
-      "source": "Bleach",
+      "name": "Levy McGarden",
+      "source": "Fairy Tail",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Rangiku Matsumoto:Bleach",
-      "nextIndex": 183
+      "globalId": "db:Levy McGarden:Fairy Tail",
+      "nextIndex": 110
     },
     "meta": {
-      "source": "Bleach",
-      "fanbase": 506666,
-      "vibe": "MYSTERIOUS",
-      "rating": "LEGENDARY",
-      "age": "Unknown",
-      "blood": "Unknown",
+      "source": "Fairy Tail",
+      "fanbase": 235291,
+      "vibe": "PLAYFUL",
+      "rating": "ICONIC",
+      "age": "17",
+      "blood": "A",
       "bio": "Mage",
-      "description": "cm Zanpakutou: Rangiku Matsumoto is the lieutenant of the 10th Division of the …",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b904-bdfi2xqHicCj.png"
+      "description": "cm Magic: Solid Script Mage Levy is a member of the Fairy Tail Guild's team Sha…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b29493-XcqFX69oipzX.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1404100712127791144/1566436780117463140/waifu-d54d3f27c973d37b6fd0c916.png?ex=6ae8896f&is=6ae737ef&hm=29c911d88c67a2633e1d75ec7c48b559f8b7b16177e48a3b8632f7c735fc8c0b&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1404100712127791144/1566571180448677969/waifu-b2995312616db772e01df4e2.png?ex=6ae9069a&is=6ae7b51a&hm=83d5b61ad1fe53c443ba7e0c57ae97d01abe5efcc5ab931435c1e0cb81576995&"
   }
 }
