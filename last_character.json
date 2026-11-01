@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Mikasa Ackerman:Attack on Titan",
-  "lastName": "Mikasa Ackerman",
-  "index": 131,
+  "lastId": "db:Rangiku Matsumoto:Bleach",
+  "lastName": "Rangiku Matsumoto",
+  "index": 183,
   "recent": [
+    "db:Rangiku Matsumoto:Bleach",
     "db:Mikasa Ackerman:Attack on Titan",
     "db:Cereza:Bayonetta Origins",
     "db:Ino Yamanaka:Naruto",
@@ -36,15 +37,14 @@
     "db:New Jersey:Azur Lane",
     "db:Shalltear Bloodfallen:Overlord",
     "db:Shorekeeper:Wuthering Waves",
-    "db:Tatsumaki:One Punch Man",
-    "db:Konan:Naruto"
+    "db:Tatsumaki:One Punch Man"
   ],
   "provider": "database",
-  "updatedAt": "2026-11-01T05:32:11.011Z",
+  "updatedAt": "2026-11-01T13:00:32.228Z",
   "cached": {
     "character": {
-      "name": "Mikasa Ackerman",
-      "source": "Attack on Titan",
+      "name": "Rangiku Matsumoto",
+      "source": "Bleach",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Mikasa Ackerman:Attack on Titan",
-      "nextIndex": 131
+      "globalId": "db:Rangiku Matsumoto:Bleach",
+      "nextIndex": 183
     },
     "meta": {
-      "source": "Attack on Titan",
-      "fanbase": 607878,
-      "vibe": "ELEGANT",
+      "source": "Bleach",
+      "fanbase": 506666,
+      "vibe": "MYSTERIOUS",
       "rating": "LEGENDARY",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Soldier",
-      "description": "Survey Corps elite soldier",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b40881-F3gr1PkreDvj.png"
+      "bio": "Mage",
+      "description": "cm Zanpakutou: Rangiku Matsumoto is the lieutenant of the 10th Division of the …",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b904-bdfi2xqHicCj.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1404100712127791144/1566323950303183009/waifu-2339a4446a0ade62b0531d98.png?ex=6ae8205a&is=6ae6ceda&hm=a42c02a6d1f9a14f32596c5e00e61e3e5ed603a382a8a0f989089d5961b61dd6&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1404100712127791144/1566436780117463140/waifu-d54d3f27c973d37b6fd0c916.png?ex=6ae8896f&is=6ae737ef&hm=29c911d88c67a2633e1d75ec7c48b559f8b7b16177e48a3b8632f7c735fc8c0b&"
   }
 }
