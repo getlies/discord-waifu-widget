@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Cereza:Bayonetta Origins",
-  "lastName": "Cereza",
-  "index": 261,
+  "lastId": "db:Mikasa Ackerman:Attack on Titan",
+  "lastName": "Mikasa Ackerman",
+  "index": 131,
   "recent": [
+    "db:Mikasa Ackerman:Attack on Titan",
     "db:Cereza:Bayonetta Origins",
     "db:Ino Yamanaka:Naruto",
     "db:Aqua:Konosuba",
@@ -36,36 +37,35 @@
     "db:Shalltear Bloodfallen:Overlord",
     "db:Shorekeeper:Wuthering Waves",
     "db:Tatsumaki:One Punch Man",
-    "db:Konan:Naruto",
-    "db:Karenina:Punishing Gray Raven"
+    "db:Konan:Naruto"
   ],
   "provider": "database",
-  "updatedAt": "2026-10-31T21:16:49.989Z",
+  "updatedAt": "2026-11-01T05:32:11.011Z",
   "cached": {
     "character": {
-      "name": "Cereza",
-      "source": "Bayonetta Origins",
-      "universe": "GAME",
+      "name": "Mikasa Ackerman",
+      "source": "Attack on Titan",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Cereza:Bayonetta Origins",
-      "nextIndex": 261
+      "globalId": "db:Mikasa Ackerman:Attack on Titan",
+      "nextIndex": 131
     },
     "meta": {
-      "source": "Bayonetta Origins",
-      "fanbase": 200895,
-      "vibe": "TSUNDERE",
-      "rating": "POPULAR",
+      "source": "Attack on Titan",
+      "fanbase": 607878,
+      "vibe": "ELEGANT",
+      "rating": "LEGENDARY",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "Cereza is the time-displaced young girl",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b219274-P9RmNHp3VJTO.png"
+      "bio": "Soldier",
+      "description": "Survey Corps elite soldier",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b40881-F3gr1PkreDvj.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1404100712127791144/1566199290823581710/waifu-57f24d98f571a396cd958eb3.png?ex=6ae7ac41&is=6ae65ac1&hm=004b791e35f16aa7454b71467530db71750dea42c8d0ac4893fd9b698f59530f&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1404100712127791144/1566323950303183009/waifu-2339a4446a0ade62b0531d98.png?ex=6ae8205a&is=6ae6ceda&hm=a42c02a6d1f9a14f32596c5e00e61e3e5ed603a382a8a0f989089d5961b61dd6&"
   }
 }
