@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Levy McGarden:Fairy Tail",
-  "lastName": "Levy McGarden",
-  "index": 110,
+  "lastId": "db:C.C.:Code Geass",
+  "lastName": "C.C.",
+  "index": 187,
   "recent": [
+    "db:C.C.:Code Geass",
     "db:Levy McGarden:Fairy Tail",
     "db:Rangiku Matsumoto:Bleach",
     "db:Mikasa Ackerman:Attack on Titan",
@@ -36,15 +37,14 @@
     "db:Lucy:Cyberpunk Edgerunners",
     "db:Aigis:Persona 3",
     "db:New Jersey:Azur Lane",
-    "db:Shalltear Bloodfallen:Overlord",
-    "db:Shorekeeper:Wuthering Waves"
+    "db:Shalltear Bloodfallen:Overlord"
   ],
   "provider": "database",
-  "updatedAt": "2026-11-01T21:54:36.096Z",
+  "updatedAt": "2026-11-02T05:29:41.337Z",
   "cached": {
     "character": {
-      "name": "Levy McGarden",
-      "source": "Fairy Tail",
+      "name": "C.C.",
+      "source": "Code Geass",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Levy McGarden:Fairy Tail",
-      "nextIndex": 110
+      "globalId": "db:C.C.:Code Geass",
+      "nextIndex": 187
     },
     "meta": {
-      "source": "Fairy Tail",
-      "fanbase": 235291,
-      "vibe": "PLAYFUL",
-      "rating": "ICONIC",
-      "age": "17",
-      "blood": "A",
-      "bio": "Mage",
-      "description": "cm Magic: Solid Script Mage Levy is a member of the Fairy Tail Guild's team Sha…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b29493-XcqFX69oipzX.jpg"
+      "source": "Code Geass",
+      "fanbase": 181809,
+      "vibe": "DEADLY",
+      "rating": "POPULAR",
+      "age": "Unknown",
+      "blood": "Unknown",
+      "bio": "Knight",
+      "description": "cm Allegiance: The Black Knights C",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1111-UhmlFtRFrnWa.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1404100712127791144/1566571180448677969/waifu-b2995312616db772e01df4e2.png?ex=6ae9069a&is=6ae7b51a&hm=83d5b61ad1fe53c443ba7e0c57ae97d01abe5efcc5ab931435c1e0cb81576995&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1404100712127791144/1566685707534082238/waifu-a86b6ddfd52583dea7e7ffac.png?ex=6ae97144&is=6ae81fc4&hm=00ba74017ac0fb76cfcefbb9cd3516e3d02f4335e3c74a01449563a84d4d57c6&"
   }
 }
