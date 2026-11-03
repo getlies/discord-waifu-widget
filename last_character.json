@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Perona:One Piece",
-  "lastName": "Perona",
-  "index": 170,
+  "lastId": "db:Matoi Ryuko:Kill la Kill",
+  "lastName": "Matoi Ryuko",
+  "index": 272,
   "recent": [
+    "db:Matoi Ryuko:Kill la Kill",
     "db:Perona:One Piece",
     "db:Darkness:Konosuba",
     "db:Bambietta Basterbine:Bleach",
@@ -36,15 +37,14 @@
     "db:Kai'Sa:League of Legends",
     "db:Bulma:Dragon Ball",
     "db:Orihime Inoue:Bleach",
-    "db:Morrigan Aensland:Darkstalkers",
-    "db:Lucy:Cyberpunk Edgerunners"
+    "db:Morrigan Aensland:Darkstalkers"
   ],
   "provider": "database",
-  "updatedAt": "2026-11-03T13:56:32.716Z",
+  "updatedAt": "2026-11-03T23:06:16.874Z",
   "cached": {
     "character": {
-      "name": "Perona",
-      "source": "One Piece",
+      "name": "Matoi Ryuko",
+      "source": "Kill la Kill",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Perona:One Piece",
-      "nextIndex": 170
+      "globalId": "db:Matoi Ryuko:Kill la Kill",
+      "nextIndex": 272
     },
     "meta": {
-      "source": "One Piece",
-      "fanbase": 566824,
-      "vibe": "CONFIDENT",
-      "rating": "LEGENDARY",
-      "age": "23-",
-      "blood": "XF",
-      "bio": "Royalty",
-      "description": "cm Affiliations: Thriller Bark Pirates Devil Fruit: Horo Horo no Mi Devil Fruit…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7467-0xxnaxQGfhkY.jpg"
+      "source": "Kill la Kill",
+      "fanbase": 196694,
+      "vibe": "DOMINANT",
+      "rating": "POPULAR",
+      "age": "17",
+      "blood": "Unknown",
+      "bio": "Student",
+      "description": "She transfers into Honnouji Academy as a second-year student, an Academy ruled …",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b83797-ix0Cl5OMfV22.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1404100712127791144/1567175652858138665/waifu-692da142106e2135b6e86760.png?ex=6aeb3990&is=6ae9e810&hm=b8164bb9fd88e7def6b7ea84a63982946053536a91a4e5249fb084e5a4350dae&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1404100712127791144/1567313997911302174/waifu-9ff91b4a59bc3f8b3966fa2f.png?ex=6aebba68&is=6aea68e8&hm=c900c93228f6ab4e59e647b3efe94f9f31375e473712a1df55a82a2a29967094&"
   }
 }
