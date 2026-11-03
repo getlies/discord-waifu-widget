@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Darkness:Konosuba",
-  "lastName": "Darkness",
-  "index": 194,
+  "lastId": "db:Perona:One Piece",
+  "lastName": "Perona",
+  "index": 170,
   "recent": [
+    "db:Perona:One Piece",
     "db:Darkness:Konosuba",
     "db:Bambietta Basterbine:Bleach",
     "db:C.C.:Code Geass",
@@ -36,15 +37,14 @@
     "db:Bulma:Dragon Ball",
     "db:Orihime Inoue:Bleach",
     "db:Morrigan Aensland:Darkstalkers",
-    "db:Lucy:Cyberpunk Edgerunners",
-    "db:Aigis:Persona 3"
+    "db:Lucy:Cyberpunk Edgerunners"
   ],
   "provider": "database",
-  "updatedAt": "2026-11-03T00:49:49.864Z",
+  "updatedAt": "2026-11-03T13:56:32.716Z",
   "cached": {
     "character": {
-      "name": "Darkness",
-      "source": "Konosuba",
+      "name": "Perona",
+      "source": "One Piece",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Darkness:Konosuba",
-      "nextIndex": 194
+      "globalId": "db:Perona:One Piece",
+      "nextIndex": 170
     },
     "meta": {
-      "source": "Konosuba",
-      "fanbase": 232328,
-      "vibe": "DOMINANT",
-      "rating": "ICONIC",
-      "age": "18",
-      "blood": "Unknown",
-      "bio": "Knight",
-      "description": "A crusader and a masochist",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89363-mm21Ll4NegUD.png"
+      "source": "One Piece",
+      "fanbase": 566824,
+      "vibe": "CONFIDENT",
+      "rating": "LEGENDARY",
+      "age": "23-",
+      "blood": "XF",
+      "bio": "Royalty",
+      "description": "cm Affiliations: Thriller Bark Pirates Devil Fruit: Horo Horo no Mi Devil Fruit…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7467-0xxnaxQGfhkY.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1404100712127791144/1566977669935923220/waifu-00d0a989b77da13170ab47db.png?ex=6aea812d&is=6ae92fad&hm=3626165c0b883b9cf0da229ddf89bad5a87bd91311f2056f6030d32d275f9166&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1404100712127791144/1567175652858138665/waifu-692da142106e2135b6e86760.png?ex=6aeb3990&is=6ae9e810&hm=b8164bb9fd88e7def6b7ea84a63982946053536a91a4e5249fb084e5a4350dae&"
   }
 }
