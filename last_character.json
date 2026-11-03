@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Bambietta Basterbine:Bleach",
-  "lastName": "Bambietta Basterbine",
-  "index": 186,
+  "lastId": "db:Darkness:Konosuba",
+  "lastName": "Darkness",
+  "index": 194,
   "recent": [
+    "db:Darkness:Konosuba",
     "db:Bambietta Basterbine:Bleach",
     "db:C.C.:Code Geass",
     "db:Levy McGarden:Fairy Tail",
@@ -36,15 +37,14 @@
     "db:Orihime Inoue:Bleach",
     "db:Morrigan Aensland:Darkstalkers",
     "db:Lucy:Cyberpunk Edgerunners",
-    "db:Aigis:Persona 3",
-    "db:New Jersey:Azur Lane"
+    "db:Aigis:Persona 3"
   ],
   "provider": "database",
-  "updatedAt": "2026-11-02T15:22:27.190Z",
+  "updatedAt": "2026-11-03T00:49:49.864Z",
   "cached": {
     "character": {
-      "name": "Bambietta Basterbine",
-      "source": "Bleach",
+      "name": "Darkness",
+      "source": "Konosuba",
       "universe": "ANIME",
       "image": "",
       "bio": "",
@@ -52,20 +52,20 @@
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Bambietta Basterbine:Bleach",
-      "nextIndex": 186
+      "globalId": "db:Darkness:Konosuba",
+      "nextIndex": 194
     },
     "meta": {
-      "source": "Bleach",
-      "fanbase": 453494,
-      "vibe": "WHOLESOME",
-      "rating": "ELITE",
-      "age": "Unknown",
+      "source": "Konosuba",
+      "fanbase": 232328,
+      "vibe": "DOMINANT",
+      "rating": "ICONIC",
+      "age": "18",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "Race: Quincy Affiliation: Vandenreich Occupation: Stern Ritter \"E\" Team: Vanden…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b64511-zr1ivnK8qPF2.jpg"
+      "bio": "Knight",
+      "description": "A crusader and a masochist",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89363-mm21Ll4NegUD.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1404100712127791144/1566834884037709924/waifu-372e2e16e49da517fe8ed3f5.png?ex=6ae9fc32&is=6ae8aab2&hm=5340a8f40ad3435823032c0ce459416f1276052807b13c6cabb857f4fca883da&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1404100712127791144/1566977669935923220/waifu-00d0a989b77da13170ab47db.png?ex=6aea812d&is=6ae92fad&hm=3626165c0b883b9cf0da229ddf89bad5a87bd91311f2056f6030d32d275f9166&"
   }
 }
