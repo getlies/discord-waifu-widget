@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Zani:Wuthering Waves",
-  "lastName": "Zani",
-  "index": 47,
+  "lastId": "db:Peach:Super Mario",
+  "lastName": "Peach",
+  "index": 267,
   "recent": [
+    "db:Peach:Super Mario",
     "db:Zani:Wuthering Waves",
     "db:Akali:League of Legends",
     "db:Matoi Ryuko:Kill la Kill",
@@ -36,36 +37,35 @@
     "db:Echidna:Re:Zero",
     "db:Kafka:Honkai Star Rail",
     "db:Princess Zelda:The Legend of Zelda",
-    "db:Kai'Sa:League of Legends",
-    "db:Bulma:Dragon Ball"
+    "db:Kai'Sa:League of Legends"
   ],
   "provider": "database",
-  "updatedAt": "2026-11-04T14:10:32.714Z",
+  "updatedAt": "2026-11-04T23:28:46.806Z",
   "cached": {
     "character": {
-      "name": "Zani",
-      "source": "Wuthering Waves",
-      "universe": "GACHA",
+      "name": "Peach",
+      "source": "Super Mario",
+      "universe": "GAME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Zani:Wuthering Waves",
-      "nextIndex": 47
+      "globalId": "db:Peach:Super Mario",
+      "nextIndex": 267
     },
     "meta": {
-      "source": "Wuthering Waves",
-      "fanbase": 241948,
-      "vibe": "INTENSE",
-      "rating": "ICONIC",
+      "source": "Super Mario",
+      "fanbase": 196379,
+      "vibe": "PLAYFUL",
+      "rating": "POPULAR",
       "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Student",
-      "description": "Member of the Misha Academy student council",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b269686-J9uj5fETtsks.png"
+      "bio": "Character",
+      "description": "Bonchien is the prince of the Uralis Kingdom",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b138876-8TsowRGCmx4V.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1404100712127791144/1567541562705969172/waifu-fad225e96220b0252e2bd585.png?ex=6aec8e58&is=6aeb3cd8&hm=35c07a143969b34d4ba08625abb2596bd6ce3402103e3bf65ed759a82f45460f&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1404100712127791144/1567682048578166825/waifu-633cfd713b0ebeaf021da25d.png?ex=6aed112e&is=6aebbfae&hm=34aad8b73de150e03974aa5d0712ced0d5829d39dbcfff317922f82fd7b095ee&"
   }
 }
