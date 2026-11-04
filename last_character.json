@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Matoi Ryuko:Kill la Kill",
-  "lastName": "Matoi Ryuko",
-  "index": 272,
+  "lastId": "db:Akali:League of Legends",
+  "lastName": "Akali",
+  "index": 241,
   "recent": [
+    "db:Akali:League of Legends",
     "db:Matoi Ryuko:Kill la Kill",
     "db:Perona:One Piece",
     "db:Darkness:Konosuba",
@@ -36,36 +37,35 @@
     "db:Princess Zelda:The Legend of Zelda",
     "db:Kai'Sa:League of Legends",
     "db:Bulma:Dragon Ball",
-    "db:Orihime Inoue:Bleach",
-    "db:Morrigan Aensland:Darkstalkers"
+    "db:Orihime Inoue:Bleach"
   ],
   "provider": "database",
-  "updatedAt": "2026-11-03T23:06:16.874Z",
+  "updatedAt": "2026-11-04T05:47:21.739Z",
   "cached": {
     "character": {
-      "name": "Matoi Ryuko",
-      "source": "Kill la Kill",
-      "universe": "ANIME",
+      "name": "Akali",
+      "source": "League of Legends",
+      "universe": "GAME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Matoi Ryuko:Kill la Kill",
-      "nextIndex": 272
+      "globalId": "db:Akali:League of Legends",
+      "nextIndex": 241
     },
     "meta": {
-      "source": "Kill la Kill",
-      "fanbase": 196694,
-      "vibe": "DOMINANT",
+      "source": "League of Legends",
+      "fanbase": 216117,
+      "vibe": "SEDUCTIVE",
       "rating": "POPULAR",
       "age": "17",
       "blood": "Unknown",
-      "bio": "Student",
-      "description": "She transfers into Honnouji Academy as a second-year student, an Academy ruled …",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b83797-ix0Cl5OMfV22.png"
+      "bio": "Character",
+      "description": "July 24 A Akari is a polite red-haired girl who is supposedly the main protagon…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124932-laDqVLCjcmC6.jpg"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1404100712127791144/1567313997911302174/waifu-9ff91b4a59bc3f8b3966fa2f.png?ex=6aebba68&is=6aea68e8&hm=c900c93228f6ab4e59e647b3efe94f9f31375e473712a1df55a82a2a29967094&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1404100712127791144/1567414933866549400/waifu-3d443d6c580f8f1f61638581.png?ex=6aec1869&is=6aeac6e9&hm=cc03c33992e0d019390e014cddbd76fccea1ba1bc00f709dc08ca24b41fa27a4&"
   }
 }
