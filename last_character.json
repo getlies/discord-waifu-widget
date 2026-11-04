@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Akali:League of Legends",
-  "lastName": "Akali",
-  "index": 241,
+  "lastId": "db:Zani:Wuthering Waves",
+  "lastName": "Zani",
+  "index": 47,
   "recent": [
+    "db:Zani:Wuthering Waves",
     "db:Akali:League of Legends",
     "db:Matoi Ryuko:Kill la Kill",
     "db:Perona:One Piece",
@@ -36,36 +37,35 @@
     "db:Kafka:Honkai Star Rail",
     "db:Princess Zelda:The Legend of Zelda",
     "db:Kai'Sa:League of Legends",
-    "db:Bulma:Dragon Ball",
-    "db:Orihime Inoue:Bleach"
+    "db:Bulma:Dragon Ball"
   ],
   "provider": "database",
-  "updatedAt": "2026-11-04T05:47:21.739Z",
+  "updatedAt": "2026-11-04T14:10:32.714Z",
   "cached": {
     "character": {
-      "name": "Akali",
-      "source": "League of Legends",
-      "universe": "GAME",
+      "name": "Zani",
+      "source": "Wuthering Waves",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Akali:League of Legends",
-      "nextIndex": 241
+      "globalId": "db:Zani:Wuthering Waves",
+      "nextIndex": 47
     },
     "meta": {
-      "source": "League of Legends",
-      "fanbase": 216117,
-      "vibe": "SEDUCTIVE",
-      "rating": "POPULAR",
-      "age": "17",
+      "source": "Wuthering Waves",
+      "fanbase": 241948,
+      "vibe": "INTENSE",
+      "rating": "ICONIC",
+      "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "July 24 A Akari is a polite red-haired girl who is supposedly the main protagon…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124932-laDqVLCjcmC6.jpg"
+      "bio": "Student",
+      "description": "Member of the Misha Academy student council",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b269686-J9uj5fETtsks.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1404100712127791144/1567414933866549400/waifu-3d443d6c580f8f1f61638581.png?ex=6aec1869&is=6aeac6e9&hm=cc03c33992e0d019390e014cddbd76fccea1ba1bc00f709dc08ca24b41fa27a4&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1404100712127791144/1567541562705969172/waifu-fad225e96220b0252e2bd585.png?ex=6aec8e58&is=6aeb3cd8&hm=35c07a143969b34d4ba08625abb2596bd6ce3402103e3bf65ed759a82f45460f&"
   }
 }
