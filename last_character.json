@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Rosaria:Genshin Impact",
-  "lastName": "Rosaria",
-  "index": 16,
+  "lastId": "db:Maki Zenin:Jujutsu Kaisen",
+  "lastName": "Maki Zenin",
+  "index": 124,
   "recent": [
+    "db:Maki Zenin:Jujutsu Kaisen",
     "db:Rosaria:Genshin Impact",
     "db:Peach:Super Mario",
     "db:Zani:Wuthering Waves",
@@ -36,36 +37,35 @@
     "db:Vinsmoke Reiju:One Piece",
     "db:Verina:Wuthering Waves",
     "db:Echidna:Re:Zero",
-    "db:Kafka:Honkai Star Rail",
-    "db:Princess Zelda:The Legend of Zelda"
+    "db:Kafka:Honkai Star Rail"
   ],
   "provider": "database",
-  "updatedAt": "2026-11-05T06:06:45.538Z",
+  "updatedAt": "2026-11-05T19:46:33.649Z",
   "cached": {
     "character": {
-      "name": "Rosaria",
-      "source": "Genshin Impact",
-      "universe": "GACHA",
+      "name": "Maki Zenin",
+      "source": "Jujutsu Kaisen",
+      "universe": "ANIME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Rosaria:Genshin Impact",
-      "nextIndex": 16
+      "globalId": "db:Maki Zenin:Jujutsu Kaisen",
+      "nextIndex": 124
     },
     "meta": {
-      "source": "Genshin Impact",
-      "fanbase": 572208,
-      "vibe": "DOMINANT",
+      "source": "Jujutsu Kaisen",
+      "fanbase": 573590,
+      "vibe": "WHOLESOME",
       "rating": "LEGENDARY",
-      "age": "8",
+      "age": "Unknown",
       "blood": "Unknown",
-      "bio": "Character",
-      "description": "In a land of idiots, surely a wizard could prove to rise above the mind numbing…",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b319048-6TSNZieKkCcX.png"
+      "bio": "Sorcerer",
+      "description": "Cursed tools specialist",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b134167-5TCytk45YByD.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1404100712127791144/1567782203268669500/waifu-f26f952870b343fc31498114.png?ex=6aed6e75&is=6aec1cf5&hm=ddeb80b4f83f128b313c068fe59baea8a2bbe5d2cda3b7b60cb7a35dd27a434c&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1404100712127791144/1567988512580698173/waifu-58697d1d5d277a3ab8ff35e6.png?ex=6aee2e99&is=6aecdd19&hm=799a9f1a8a8225316542b6226389f6bc0ad2e90d6f128b08ec770ced7965561e&"
   }
 }
