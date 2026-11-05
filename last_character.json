@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Peach:Super Mario",
-  "lastName": "Peach",
-  "index": 267,
+  "lastId": "db:Rosaria:Genshin Impact",
+  "lastName": "Rosaria",
+  "index": 16,
   "recent": [
+    "db:Rosaria:Genshin Impact",
     "db:Peach:Super Mario",
     "db:Zani:Wuthering Waves",
     "db:Akali:League of Legends",
@@ -36,36 +37,35 @@
     "db:Verina:Wuthering Waves",
     "db:Echidna:Re:Zero",
     "db:Kafka:Honkai Star Rail",
-    "db:Princess Zelda:The Legend of Zelda",
-    "db:Kai'Sa:League of Legends"
+    "db:Princess Zelda:The Legend of Zelda"
   ],
   "provider": "database",
-  "updatedAt": "2026-11-04T23:28:46.806Z",
+  "updatedAt": "2026-11-05T06:06:45.538Z",
   "cached": {
     "character": {
-      "name": "Peach",
-      "source": "Super Mario",
-      "universe": "GAME",
+      "name": "Rosaria",
+      "source": "Genshin Impact",
+      "universe": "GACHA",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Peach:Super Mario",
-      "nextIndex": 267
+      "globalId": "db:Rosaria:Genshin Impact",
+      "nextIndex": 16
     },
     "meta": {
-      "source": "Super Mario",
-      "fanbase": 196379,
-      "vibe": "PLAYFUL",
-      "rating": "POPULAR",
-      "age": "Unknown",
+      "source": "Genshin Impact",
+      "fanbase": 572208,
+      "vibe": "DOMINANT",
+      "rating": "LEGENDARY",
+      "age": "8",
       "blood": "Unknown",
       "bio": "Character",
-      "description": "Bonchien is the prince of the Uralis Kingdom",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b138876-8TsowRGCmx4V.jpg"
+      "description": "In a land of idiots, surely a wizard could prove to rise above the mind numbing…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b319048-6TSNZieKkCcX.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1404100712127791144/1567682048578166825/waifu-633cfd713b0ebeaf021da25d.png?ex=6aed112e&is=6aebbfae&hm=34aad8b73de150e03974aa5d0712ced0d5829d39dbcfff317922f82fd7b095ee&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1404100712127791144/1567782203268669500/waifu-f26f952870b343fc31498114.png?ex=6aed6e75&is=6aec1cf5&hm=ddeb80b4f83f128b313c068fe59baea8a2bbe5d2cda3b7b60cb7a35dd27a434c&"
   }
 }
