@@ -1,8 +1,9 @@
 {
-  "lastId": "db:Asuna Ichinose:Blue Archive",
-  "lastName": "Asuna Ichinose",
-  "index": 65,
+  "lastId": "db:Manon:Street Fighter 6",
+  "lastName": "Manon",
+  "index": 246,
   "recent": [
+    "db:Manon:Street Fighter 6",
     "db:Asuna Ichinose:Blue Archive",
     "db:Maki Zenin:Jujutsu Kaisen",
     "db:Rosaria:Genshin Impact",
@@ -36,36 +37,35 @@
     "db:Jeanne:Bayonetta",
     "db:Velvet Crowe:Tales of Berseria",
     "db:Vinsmoke Reiju:One Piece",
-    "db:Verina:Wuthering Waves",
-    "db:Echidna:Re:Zero"
+    "db:Verina:Wuthering Waves"
   ],
   "provider": "database",
-  "updatedAt": "2026-11-06T06:00:14.469Z",
+  "updatedAt": "2026-11-06T19:10:24.549Z",
   "cached": {
     "character": {
-      "name": "Asuna Ichinose",
-      "source": "Blue Archive",
-      "universe": "GACHA",
+      "name": "Manon",
+      "source": "Street Fighter 6",
+      "universe": "GAME",
       "image": "",
       "bio": "",
       "description": "",
       "age": "",
       "blood": "",
       "provider": "database",
-      "globalId": "db:Asuna Ichinose:Blue Archive",
-      "nextIndex": 65
+      "globalId": "db:Manon:Street Fighter 6",
+      "nextIndex": 246
     },
     "meta": {
-      "source": "Blue Archive",
-      "fanbase": 224281,
-      "vibe": "DEADLY",
+      "source": "Street Fighter 6",
+      "fanbase": 246968,
+      "vibe": "WHOLESOME",
       "rating": "ICONIC",
-      "age": "17",
+      "age": "Unknown",
       "blood": "Unknown",
       "bio": "Character",
-      "description": "cm An agent of the Millennium's secret organization, Cleaning&Clearing",
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b269726-e73jfn7SpGfI.png"
+      "description": "A mysterious girl who holds a 3-billion-year old memory, dating back to the mom…",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b29828-6ALiEx5Q37hF.png"
     },
-    "imageUrl": "https://cdn.discordapp.com/attachments/1404100712127791144/1568142950628855938/waifu-6e3ea861871213040fb05842.png?ex=6aeebe6e&is=6aed6cee&hm=41a4f7ac5cdc56d5b258267d8ea0cfedb74e4d713077f6ca6ce1fd5bcb669f87&"
+    "imageUrl": "https://cdn.discordapp.com/attachments/1404100712127791144/1568341802627502240/waifu-8194c64a59d78e7b3955cfef.png?ex=6aef77a0&is=6aee2620&hm=32076215a6d8e9777314ecc19044fe12d194f7696d56a1fdebb651df5410f1d5&"
   }
 }
